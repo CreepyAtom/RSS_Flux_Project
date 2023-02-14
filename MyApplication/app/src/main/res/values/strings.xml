@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">RoamStaySafe</string>
+    <string name="image_precedente">Image precedente</string>
+    <string name="image_suivante">Image suivante</string>
+    <string name="test_image_title" />
+    <string name="test_image_date" />
+    <string name="description_image" />
+    <string name="test_image_description" />
+    <string name ="test_text_description" />
+
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/International" android:title="International" />
+    <item android:id="@+id/Economie" android:title="Economie" />
+    <item android:id="@+id/Sport" android:title="Sport" />
+</menu>
